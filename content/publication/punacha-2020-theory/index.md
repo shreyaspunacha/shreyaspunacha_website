@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Shreyas Punacha
+- A Naveena Kumara
 - TK Shajahan
-- ' others'
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-18T13:28:59+05:30
+lastmod: 2022-07-18T13:51:41+05:30
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-18T07:58:59.390176Z'
+publishDate: '2022-07-18T08:21:41.176259Z'
 publication_types:
 - '2'
 abstract: ''
