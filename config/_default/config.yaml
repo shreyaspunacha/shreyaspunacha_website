@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shreyas Punacha # Website name
-baseURL: 'https://shreyaspunacha/ShreyasPunacha.github.io/' # Website URL
+baseURL: 'https://github.com/shreyaspunacha/ShreyasPunacha.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
