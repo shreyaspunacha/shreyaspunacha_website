@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Physics
-      institution: National Institute of Technology Karnataka, Surathkal, India
+      institution: National Institute of Technology Karnataka, Surathkal, India.
       year: 2021
     - course: M.Sc in Physics
-      institution: Mangalore University, Konaje, Karnataka, India
+      institution: Mangalore University, Konaje, Karnataka, India.
       year: 2014
     - course: B.Sc. in Physics
-      institution: Vivekananda College, Puttur, Karnataka, India
+      institution: Vivekananda College, Puttur, Karnataka, India.
       year: 2012
 
 # Social/Academic Networking
