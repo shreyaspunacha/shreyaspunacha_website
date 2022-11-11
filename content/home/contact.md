@@ -25,15 +25,15 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: shreyasp444@gmail.com
+  email: shreyas4@uw.edu, shreyasp444@gmail.com
   #phone: 888 888 88 88
   address:
-    street: Department of Physics
-    city: NITK Surathkal
-    region: Karnataka,
-    postcode: '575025'
-    country: India
-    country_code: IN
+    street: Department of Oral Health Sciences, University of Washington School of Dentistry
+    city: Seattle
+    region: Washington,
+    postcode: '98195-7475'
+    country: United States of America
+    country_code: US
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
