@@ -6,19 +6,21 @@ title: Shreyas Punacha
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Institute of Technology Karnataka Surathkal
-    url: https://www.nitk.ac.in/
+  - name: University of Washington, Seattle
+    url: https://research.dental.uw.edu/arce-mcshane/research/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research fields are Physics and Computational Biology. My research interests include cardiac arrhythmias, low-voltage defibrillation, excitable media, pattern formation and blackhole thermodynamics.
+bio: My research fields are Physics and Computational Biology. My research interests include neuroscience, cardiac arrhythmias, low-voltage defibrillation, excitable media, pattern formation and blackhole thermodynamics.
 
 # Interests to show in About widget
 interests:
   - Computational Biology
+  - Neuroscience
+  - Tongue and Mandible Kinematics
   - Excitable Media
   - Cardiac Arrhythmias
   - Low-voltage defibrillation
@@ -71,11 +73,12 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Physics PhD from National Institute of Technology Karnataka, Surathkal. My doctoral dissertation is a study on the dynamics of spiral waves in excitable media. The vision of my research is to understand cardiac dynamics and to control the spiral waves causing cardiac arrhythmias using low voltage electric fields.
-I have also worked on pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics.
+I am a Physicist and Computational Biologist at the Department of Oral Health Sciences, University of Washington, Seattle. My current interests include studying the neural activity of the cerebral cortex along with the tongue and mandible movements to understand the principles of sensorimotor control.
 
-I have excellent knowledge of programming with Python and C on cluster architectures. For my research, I have designed algorithms and developed parallel programs using message passing interface for various ionic and electrophysiological cardiac models in two and three dimensions. I have experience working with experimentalists on imaging, analysis and building computational models to validate their results.
+Previously, I was at Shajahan Lab, National Institute of Technology Karnataka, Surathkal, India. My doctoral dissertation studies the dynamics of spiral waves in excitable media. The project aimed to control the spiral waves causing cardiac arrhythmias using low-voltage electric fields. I have also worked on pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics.
 
-Besides my research, I have mentored several masters students and have worked as a teaching assistant for several courses during the course of my PhD. I believe in knowledge sharing, and I try to contribute by sharing my code, tutorials and lecture notes.
+I have excellent knowledge of programming with Python and C on cluster architectures. For my research, I have designed algorithms and developed parallel programs using Message Passing Interface for various ionic and electrophysiological cardiac models in two and three dimensions. I have experience working with experimentalists on imaging, analysis and building computational models to validate their results.
+
+Besides my research, I have mentored several Masters's students and worked as a teaching assistant for several courses during my PhD. I believe in knowledge sharing and contribute by sharing my code, tutorials and lecture notes.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
