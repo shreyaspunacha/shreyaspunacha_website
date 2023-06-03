@@ -14,7 +14,7 @@ organizations:
     url: https://research.dental.uw.edu/arce-mcshane/research/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research fields are Physics and Computational Biology. My research interests include neuroscience, cardiac arrhythmias, low-voltage defibrillation, excitable media, pattern formation and blackhole thermodynamics.
+bio: My research fields are Physics and Computational Biology. My research interests include neuroscience, tongue and jaw kinematics, cardiac arrhythmias, low-voltage defibrillation, excitable media, pattern formation, blackhole thermodynamics and fluid gravity.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,7 @@ interests:
   - Cardiac Arrhythmias
   - Low-voltage defibrillation
   - Blackhole thermodynamics
+  - Fluid Gravity
 
 # Education to show in About widget
 education:
@@ -59,6 +60,10 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Shreyas-Punacha
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shreyas-punacha
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,12 +78,12 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Physicist and Computational Biologist at the Department of Oral Health Sciences, University of Washington, Seattle. My current interests include studying the neural activity of the cerebral cortex along with the tongue and mandible movements to understand the principles of sensorimotor control.
+I am a Postdoctoral scholar in the University of Washington, Seattle. My research focuses on the intricate relationship between the cortical and biomechanical changes during the oromotor behaviour and their implications in the onset and progression of Alzheimer's disease and other age-related dementias.
 
-Previously, I was at Shajahan Lab, National Institute of Technology Karnataka, Surathkal, India. My doctoral dissertation studies the dynamics of spiral waves in excitable media. The project aimed to control the spiral waves causing cardiac arrhythmias using low-voltage electric fields. I have also worked on pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics.
+In our laboratory, we use chronically implanted microelectrode arrays to capture the cortical activity in the orofacial sensorimotor cortex while simultaneously tracking the precise movements of the tongue and the jaw in three dimensions using a biplanar video-radiography setup. These observations are made during the natural feeding behaviour of both the young and old macaques, providing valuable insights into the complex mechanisms at play.
 
-I have excellent knowledge of programming with Python and C on cluster architectures. For my research, I have designed algorithms and developed parallel programs using Message Passing Interface for various ionic and electrophysiological cardiac models in two and three dimensions. I have experience working with experimentalists on imaging, analysis and building computational models to validate their results.
+My academic background is rooted in Physics, with a specialization in computational biology. I hold a PhD from the Physics department at National Institute of Technology Karnataka, Surathkal in India. My doctral research was focused on the dynamics and control of spiral waves that cause life-threatening cardiac arrhythmias using low voltage electric fields. I have also explored pattern formation in Belousov-Zhabotinsky chemical reaction and tackled computational problems in Blackhole Thermodynamics and Fluid Gravity.
 
-Besides my research, I have mentored several Masters's students and worked as a teaching assistant for several courses during my PhD. I believe in knowledge sharing and contribute by sharing my code, tutorials and lecture notes.
+I have excellent knowledge of programming with Matlab, Python and C on cluster architectures. For my research, I have designed algorithms and developed parallel programs using Message Passing Interface for various ionic and electrophysiological cardiac models in two and three dimensions. I have experience working with experimentalists on imaging, analysis and building computational models to validate their results.Besides my research, I have mentored several Masters's students and worked as a teaching assistant for several courses during my PhD.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
