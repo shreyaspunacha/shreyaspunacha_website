@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Dynamic Phase Transition of Black Holes in Massive Gravity
+title: Dynamic phase transition of black holes in massive gravity
 subtitle: ''
 summary: ''
 authors:
 - TK Safir
 - A Naveena Kumara
 - Shreyas Punacha
-- Deepak Vaid
-- CL Rizwan
+- CL Ahmed Rizwan
 - C Fairoos
+- Deepak Vaid
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-07-22T20:56:13-07:00
+lastmod: 2024-09-11T19:56:31-07:00
 featured: false
 draft: false
 
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-23T03:56:13.173813Z'
+publishDate: '2024-09-12T02:56:31.234918Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2306.10383*'
+publication: '*Annals of Physics*'
 ---
