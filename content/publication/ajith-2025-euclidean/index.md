@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spinning LQG black hole as a particle accelerator
+title: Euclidean Thermodynamics and Lyapunov Exponents of Einstein-Power-Yang-Mills
+  AdS Black Holes
 subtitle: ''
 summary: ''
 authors:
-- Ullas P. Suresh
-- Karthik R
-- K. M. Ajith
+- KM Ajith
 - Kartheek Hegde
 - Shreyas Punacha
-- A. Naveena Kumara
+- A Naveena Kumara
+- ' others'
 tags: []
 categories: []
-date: '2024-08-01'
-lastmod: 2024-09-11T19:56:31-07:00
+date: '2025-01-01'
+lastmod: 2025-05-07T15:11:01-07:00
 featured: false
 draft: false
 
@@ -32,12 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-09-12T03:38:17.030528Z'
+publishDate: '2025-05-07T22:11:01.629768Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2408.15828
+publication: '*arXiv preprint arXiv:2504.12890*'
 ---
