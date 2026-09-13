@@ -1,20 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Euclidean Thermodynamics and Lyapunov Exponents of Einstein-Power-Yang-Mills
-  AdS Black Holes
+title: Effects of Healthy Aging on Tongue-Jaw Kinematics During Feeding
 subtitle: ''
 summary: ''
 authors:
-- KM Ajith
-- Kartheek Hegde
 - Shreyas Punacha
-- A Naveena Kumara
-- ' others'
+- Kevin Huang
+- Fritzie I Arce-McShane
 tags: []
 categories: []
 date: '2025-01-01'
-lastmod: 2025-05-07T15:11:01-07:00
+lastmod: 2026-09-12T21:44:41-07:00
 featured: false
 draft: false
 
@@ -32,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-05-07T22:11:01.629768Z'
+publishDate: '2026-09-13T04:44:41.788971Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2504.12890*'
+publication: '*Journal of oral rehabilitation*'
 ---

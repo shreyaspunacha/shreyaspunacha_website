@@ -1,18 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Effects of healthy aging on tongue-jaw kinematics during feeding behavior in
-  rhesus macaques
+title: Euclidean thermodynamics and lyapunov exponents of einstein--power--yang--mills
+  ads black holes
 subtitle: ''
 summary: ''
 authors:
+- R Karthik
+- D Dillirajan
+- KM Ajith
+- Kartheek Hegde
 - Shreyas Punacha
-- Kevin Huang
-- Fritzie I Arce-McShane
+- A Naveena Kumara
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-09-11T19:56:31-07:00
+date: '2025-01-01'
+lastmod: 2026-09-12T21:44:42-07:00
 featured: false
 draft: false
 
@@ -30,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-09-12T03:38:17.120662Z'
+publishDate: '2026-09-13T04:44:42.136296Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv*'
+publication: '*The European Physical Journal C*'
 ---
