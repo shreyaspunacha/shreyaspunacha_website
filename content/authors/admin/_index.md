@@ -18,7 +18,6 @@ bio: My research fields are Physics and Computational Biology. My research inter
 
 # Interests to show in About widget
 interests:
-  - Computational Biology
   - Neuroscience
   - Tongue and Mandible Kinematics
   - Excitable Media
